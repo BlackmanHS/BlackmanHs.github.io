@@ -7,7 +7,7 @@
  */
 
 html {
-  font-family: Garamond;
+  font-family: ;
   
 }
 
@@ -431,7 +431,7 @@ body {
   font-size: 15px;
   line-height: 1.5;
   background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Palatino Linotype', "Book Antiqua", "Palatino", serif;
   font-weight: 400;
   color: #669;
 }
@@ -459,7 +459,7 @@ header h1 {
   letter-spacing: -1px;
   font-size: 72px;
   font-weight: normal;
-  color: #fff;
+  color: #ff8429;
   line-height: 1;
   margin-top: 0;
   margin-bottom: 0.2em;
