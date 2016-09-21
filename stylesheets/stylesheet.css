@@ -433,7 +433,7 @@ body {
   background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
   font-family: 'Palatino Linotype', "Book Antiqua", "Palatino", serif;
   font-weight: 400;
-  color: #669;
+  color: gray;
 }
 
 p {
@@ -450,7 +450,7 @@ a:hover {
 header {
   padding-top: 40px;
   padding-bottom: 40px;
-  font-family: 'Palatino Linotype', "Book Antiqua", "Palatino", serif;
+  font-family: "Times New Roman", Times, serif;
   background: #2e7bcf url(http://cdn.wallpapersafari.com/39/12/BjuXTa.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
 }
