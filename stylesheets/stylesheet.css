@@ -614,7 +614,7 @@ form {
 #main-content h1 {
   font-family: 'Palatino Linotype', "Book Antiqua", "Palatino", serif;
   font-size: 2.8em;
-  font-weight: normal;
+  font-weight: bold;
   letter-spacing: -1px;
   margin-top: 0;
   margin-bottom: 0;
@@ -650,7 +650,7 @@ form {
   font-weight: bold;
   margin-top: 24px;
   margin-bottom: 8px;
-  color: #474747;
+  color: white;
   text-indent: 3px;
 }
 
