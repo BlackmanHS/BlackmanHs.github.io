@@ -725,12 +725,12 @@ blockquote {
 }
 
 ul {
-  list-style: disc inside;
+  list-style-image: url(http://emojione.com/wp-content/themes/emojione.v2/images/vectors/check-mark.svg) inside;
   padding-left: 20px;
 }
 
 ol {
-  list-style-image: url(http://emojione.com/wp-content/themes/emojione.v2/images/vectors/check-mark.svg)inside;
+  list-style: disc inside;
   padding-left: 3px;
 }
 
